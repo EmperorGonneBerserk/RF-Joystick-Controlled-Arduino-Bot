@@ -44,3 +44,6 @@ The system sends commands (`F`, `B`, `L`, `R`, `S`) via **RadioHead ASK** protoc
 | **Motor Driver → Arduino** | ENA → D5, IN1 → D8, IN2 → D9, ENB → D6, IN3 → D10, IN4 → D7 |
 
 ---
+
+🎞️ **Watch it here:**  
+👉 [View Demo Video](https://github.com/EmperorGonneBerserk/RF-Joystick-Controlled-Arduino-Bot/raw/main/bot_demo.mp4)
